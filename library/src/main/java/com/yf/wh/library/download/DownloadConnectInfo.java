@@ -1,4 +1,4 @@
-package com.yf.wh.library;
+package com.yf.wh.library.download;
 
 public class DownloadConnectInfo {
     private String host;

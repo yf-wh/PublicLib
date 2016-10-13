@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomLibrary/CustomLibrary.iml" filepath="$PROJECT_DIR$/CustomLibrary/CustomLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/PublicLib.iml" filepath="$PROJECT_DIR$/PublicLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/baidulbs_androidsdk/baidulbs_androidsdk.iml" filepath="$PROJECT_DIR$/baidulbs_androidsdk/baidulbs_androidsdk.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
     </modules>
   </component>
 </project>
